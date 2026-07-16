@@ -71,34 +71,36 @@ Performed the following analysis:
   
 - ----- Weather Analysis Summary -----
 
-Temperature Comparison
+-Temperature Comparison
+
       City  Temperature (°C)
-0    Delhi             36.07
-1   Mumbai             28.93
-2  Chennai             31.99
-3  Kolkata             30.15
-4    Kochi             25.51
-5   Bhopal             28.77
-6   Shimla             21.35
+      
+-0    Delhi             36.07
+-1   Mumbai             28.93
+-2  Chennai             31.99
+-3  Kolkata             30.15
+-4    Kochi             25.51
+-5   Bhopal             28.77
+-6   Shimla             21.35
 
-Highest Temperature
-Delhi - 36.07 °C
+-Highest Temperature
+-Delhi - 36.07 °C
 
-Highest Humidity
-Kochi - 88 %
+-Highest Humidity
+-Kochi - 88 %
 
-Weather Conditions
+-Weather Conditions
       City Weather Condition
-0    Delhi         clear sky
-1   Mumbai        few clouds
-2  Chennai   overcast clouds
-3  Kolkata   overcast clouds
-4    Kochi   overcast clouds
-5   Bhopal  scattered clouds
-6   Shimla         clear sky
+-0    Delhi         clear sky
+-1   Mumbai        few clouds
+-2  Chennai   overcast clouds
+-3  Kolkata   overcast clouds
+-4    Kochi   overcast clouds
+-5   Bhopal  scattered clouds
+-6   Shimla         clear sky
 
-Average Temperature
-28.97 °C
+-Average Temperature
+-28.97 °C
 
 ---
 
@@ -107,16 +109,20 @@ Average Temperature
 The following charts were created using Matplotlib:
 
 - Temperature Comparison (Column Chart)
-<img width="640" height="480" alt="temperature_chart" src="https://github.com/user-attachments/assets/05c32085-d311-49d5-aa9a-c807998e5c49" />
+<img width="640" height="480" alt="temperature_chart" src="https://github.com/user-attachments/assets/d5258891-0044-4411-b097-dacc618505a4" />
+
 
 - Humidity Comparison (Horizontal Bar Chart)
-  <img width="640" height="480" alt="humidity_chart" src="https://github.com/user-attachments/assets/be41bdb7-51a2-4525-b479-857bfe02e99e" />
+<img width="640" height="480" alt="humidity_chart" src="https://github.com/user-attachments/assets/1340592b-5e1f-49e8-9f33-387245a56481" />
+
 
 - Weather Condition Distribution (Pie Chart)
-<img width="640" height="480" alt="weather condition_chart" src="https://github.com/user-attachments/assets/d293e552-5384-4444-9e70-b60c4f187079" />
+<img width="640" height="480" alt="weather condition_chart" src="https://github.com/user-attachments/assets/cc1686cf-62a9-4206-84f3-0c90ed0745be" />
+
 
 - wind speed (column chart)
-<img width="640" height="480" alt="wind speed_chart" src="https://github.com/user-attachments/assets/cccc8e37-27d3-4cf9-8c20-8364efa728cd" />
+<img width="640" height="480" alt="wind speed_chart" src="https://github.com/user-attachments/assets/d6c21af1-4c04-4436-ae7f-5097794b874b" />
+
 
 ---
 
