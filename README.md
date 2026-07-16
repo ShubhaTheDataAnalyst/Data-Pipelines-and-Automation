@@ -76,30 +76,46 @@ Performed the following analysis:
       City  Temperature (°C)
       
 -0    Delhi             36.07
+
 -1   Mumbai             28.93
+
 -2  Chennai             31.99
+
 -3  Kolkata             30.15
+
 -4    Kochi             25.51
+
 -5   Bhopal             28.77
+
 -6   Shimla             21.35
 
 -Highest Temperature
+
 -Delhi - 36.07 °C
 
 -Highest Humidity
+
 -Kochi - 88 %
 
 -Weather Conditions
+
       City Weather Condition
 -0    Delhi         clear sky
+
 -1   Mumbai        few clouds
+
 -2  Chennai   overcast clouds
+
 -3  Kolkata   overcast clouds
+
 -4    Kochi   overcast clouds
+
 -5   Bhopal  scattered clouds
+
 -6   Shimla         clear sky
 
 -Average Temperature
+
 -28.97 °C
 
 ---
@@ -109,20 +125,16 @@ Performed the following analysis:
 The following charts were created using Matplotlib:
 
 - Temperature Comparison (Column Chart)
-<img width="640" height="480" alt="temperature_chart" src="https://github.com/user-attachments/assets/d5258891-0044-4411-b097-dacc618505a4" />
-
+<img width="638" height="415" alt="Screenshot 2026-07-16 133516" src="https://github.com/user-attachments/assets/74031f98-0d8e-4b20-9516-78541151813b" />
 
 - Humidity Comparison (Horizontal Bar Chart)
-<img width="640" height="480" alt="humidity_chart" src="https://github.com/user-attachments/assets/1340592b-5e1f-49e8-9f33-387245a56481" />
-
+<img width="703" height="410" alt="Screenshot 2026-07-16 133544" src="https://github.com/user-attachments/assets/10320ec0-fb1d-446b-bfcc-bf5d79bb27fd" />
 
 - Weather Condition Distribution (Pie Chart)
-<img width="640" height="480" alt="weather condition_chart" src="https://github.com/user-attachments/assets/cc1686cf-62a9-4206-84f3-0c90ed0745be" />
-
+<img width="534" height="448" alt="Screenshot 2026-07-16 133629" src="https://github.com/user-attachments/assets/4e44ca95-472a-4f6f-a1a7-db491cf288ce" />
 
 - wind speed (column chart)
-<img width="640" height="480" alt="wind speed_chart" src="https://github.com/user-attachments/assets/d6c21af1-4c04-4436-ae7f-5097794b874b" />
-
+<img width="630" height="418" alt="Screenshot 2026-07-16 133611" src="https://github.com/user-attachments/assets/81d61931-3869-4693-b218-494ce614051d" />
 
 ---
 
